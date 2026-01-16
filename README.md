@@ -43,6 +43,5 @@ This repository consolidates:
 This repository is for research and educational purposes only and does not constitute
 investment advice.
 
-## License
-MIT License
+
 
