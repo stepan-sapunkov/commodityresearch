@@ -10,6 +10,7 @@ Datasets are not stored in the repository due to size and licensing constraints.
 | Reports         | [IEA](https://www.iea.org/) | Energy market outlooks, supply–demand analysis |
 | Reports         | [OPEC – Monthly Oil Market Report](https://www.opec.org/opec_web/en/publications/338.htm) | Global oil market supply, demand, and outlook |
 | Reports         | [BP Statistical Review of World Energy](https://www.bp.com/statisticalreview) | Long-term global energy production and consumption |
+| Reports | [Resources for the Future (RFF)](https://www.rff.org/topics/data-and-decision-tools/) | Energy, climate, and natural resource research and policy analysis |
 | Reports         | [Australian Government – Industry Reports](https://www.industry.gov.au/publications) | Energy and resources market reports |
 | Reports         | [USGS](https://www.usgs.gov/centers/national-minerals-information-center) | Mineral production, reserves, and resources |
 | Reports         | [CME Group – Research](https://www.cmegroup.com/education/reports.html) | Futures market research and insights |
