@@ -22,7 +22,7 @@ Datasets are not stored in the repository due to size and licensing constraints.
 | Data Providers  | [FRED](https://fred.stlouisfed.org/) | Macroeconomic and financial time series |
 | Data Providers  | [BLS](https://www.bls.gov/data/) | CPI, PPI, and labor market indicators |
 | Data Providers  | [EIA](https://www.eia.gov/) | Energy production, consumption, and inventories |
-| Data Providers  | [BIS](https://www.bis.org/statistics/) | Global financial and monetary statistics |
+| Data Providers  | [BIS](https://www.bis.org/index.htm) | Global financial and monetary statistics |
 | Data Providers  | [Our World in Data](https://ourworldindata.org/) | Energy, climate, and macroeconomic datasets |
 | Data Providers  | [Macromicro](https://en.macromicro.me/) | Macro and financial indicators with visualizations |
 | Data Providers  | [Barchart](https://www.barchart.com/) | Futures, spot prices, and market indicators |
