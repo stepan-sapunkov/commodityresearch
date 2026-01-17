@@ -32,8 +32,7 @@ This repository consolidates:
 ## Tools
 - Python
 - pandas, numpy
-- statsmodels, scikit-learn
-- PyTorch
+- statsmodels, scikit-learn, PyTorch
 - R
 - MATLAB
 - Jupyter notebooks
