@@ -36,3 +36,8 @@ Datasets are not stored in the repository due to size and licensing constraints.
 | Data Providers  | [Investing.com](https://www.investing.com/) | Commodity prices and financial market data |
 | Data Providers  | [CFTC – Commitments of Traders](https://www.cftc.gov/MarketReports/CommitmentsofTraders/HistoricalCompressed/index.htm) | Futures trader positioning (COT reports) |
 | Data Providers  | [FactSet](https://www.factset.com/) | Market and macro data (subscription-based) |
+| Institutional Data (Access Restricted) | Bloomberg | Market, macroeconomic, and commodity data (subscription-based) |
+| Institutional Data (Access Restricted) | LSEG (Refinitiv) | Financial, macro, and commodities data (subscription-based) |
+| Institutional Data (Access Restricted) | S&P Capital IQ Pro | Company, market, and macro data (subscription-based) |
+| Institutional Data (Access Restricted) | EIU | Country, macroeconomic, and policy analysis |
+| Institutional Data (Access Restricted) | Statista | Aggregated economic and market statistics |
