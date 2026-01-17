@@ -13,7 +13,7 @@ Datasets are not stored in the repository due to size and licensing constraints.
 | Reports | [Resources for the Future (RFF)](https://www.rff.org/topics/data-and-decision-tools/) | Energy, climate, and natural resource research and policy analysis |
 | Reports         | [Australian Government – Industry Reports](https://www.industry.gov.au/publications) | Energy and resources market reports |
 | Reports         | [USGS](https://www.usgs.gov/centers/national-minerals-information-center) | Mineral production, reserves, and resources |
-| Reports         | [CME Group – Research](https://www.cmegroup.com/education/reports.html) | Futures market research and insights |
+| Reports         | [CME Group – Research](https://www.cmegroup.com/insights/economic-research.html) | Futures market research and insights |
 | Reports         | [ResearchGate](https://www.researchgate.net/) | Academic and applied research papers |
 | Reports         | [arXiv](https://arxiv.org/) | Preprints in economics, finance, and quantitative research |
 | Reports         | [Scribd](https://www.scribd.com/) | Industry reports and research documents |
