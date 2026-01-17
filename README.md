@@ -13,7 +13,7 @@ This repository consolidates:
 
 ## Repository Structure
 
-- `sources/`  
+-  [`sources/`](sources/)    
   Curated links and descriptions of data sources (EIA, FRED, World Bank, etc.)
 
 - `replications/`  
